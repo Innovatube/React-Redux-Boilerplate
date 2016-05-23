@@ -1,7 +1,9 @@
-# ReactReduxBoilerplate
+# React-Redux-Boilerplate
+
+###Description###
+Simple starter package for Redux with React and Babel support
 
 ###Getting Started###
-
 There are two methods for getting started with this repo.
 
 ####Familiar with Git?#####
